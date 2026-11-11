@@ -1,4 +1,10 @@
 //program to divide two numbers.
+// Function Name : DividetwoNumbers
+// Description : used to divide two numbers 
+// input : integer 
+// output = float 
+// author = Aaditi Manojkumar Varma
+// Date : 20/10/2026
 
 #include<stdio.h>
 
